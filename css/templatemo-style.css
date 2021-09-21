@@ -126,9 +126,9 @@ html {
 }
 
 .tm-btn-default {
-  border: 1px solid #ccc;
-  background-color: transparent;
-  color: #626364;
+  border: 1px solid #ffffff;
+  background-color: #ff7518;
+  color: #ffffff;
 }
 
 .tm-btn-default:hover,
@@ -205,7 +205,7 @@ body {
 }
 
 .container {
-  background-color: white;
+  background-color: #e5e4e2;
 }
 
 p, address {

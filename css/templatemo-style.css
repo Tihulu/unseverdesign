@@ -192,6 +192,11 @@ html {
   height: auto;
 }
 
+.img-fluid2 {
+  max-width: 250px;
+  height: 250px;
+}
+
 body {
 	font-family: 'Open Sans', Arial, sans-serif;
 	font-size: 17px;
@@ -392,6 +397,10 @@ p, address {
 
 .tm-gallery-img {
   margin-bottom: 20px;
+}
+
+.tm-gallery-img2 {
+  margin-bottom: 50px;
 }
 
 .tm-gallery-title {

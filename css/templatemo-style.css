@@ -430,6 +430,9 @@ p, address {
   display: inline-block;
   border: 1px solid #2F956D;
   margin: 7px;
+  width: 142px;
+  height: 46px;
+  box-sizing: border-box;
 }
 
 .tm-paging-link {
